@@ -6,6 +6,9 @@ contributor:
     alias: Sirola, Yrjo
     gutenberg_agent_id: '46914'
     url: http://www.gutenberg.org/2009/agents/46914
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Norris, Frank
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/103
     wikipedia: https://en.wikipedia.org/wiki/Frank_Norris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70773#Sywanne-b-Kuvauksia-Chicagon-porssipiireista
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70773'
